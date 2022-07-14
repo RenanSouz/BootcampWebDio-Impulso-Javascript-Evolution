@@ -14,10 +14,21 @@
       <a href="https://github.com/RenanSouz/Instagram-login">repository</a>
     </th>
   </tr>
-  
   <tr>
     <td>
       <img src="https://user-images.githubusercontent.com/101893896/178419439-f3e56f77-cea3-4589-a0cb-7ff7689a5df4.png" alt="Login do instagram">
+    </td>
+  </tr>
+  
+  <tr>
+    <th align="center">
+      <h2 id="contador">Contador</h2>
+      <p>Página de um contador em java script feita durante o bootcamp Impulso javascript evolution!</p>
+    </th>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://user-images.githubusercontent.com/101893896/179012870-5d517e94-ceff-40a7-8c65-0df6a2d42f88.png" alt="Contador em javascript">
     </td>
   </tr>
 </table>
