@@ -23,7 +23,7 @@
   <tr>
     <th align="center">
       <h2 id="contador">Contador</h2>
-      <p>Página de um contador em java script utilizando addEventListener,  feita durante o bootcamp Impulso javascript evolution!</p>
+      <p>Página de um contador em java script utilizando addEventListener e que muda de cor ao atingir números negativos,  feita durante o bootcamp Impulso javascript evolution!</p>
     </th>
   </tr>
   <tr>
